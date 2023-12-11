@@ -1,15 +1,15 @@
 # Site
-repository: sproogen/resume-theme
+repository: moltarcd/claudiocaceres.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Claudio Daniel Caceres
+title: Senior Quality Analyst - Functional Analyst
+email: caceres.claudio@gmail.com
+website: https://moltarcd.github.io/claudiocaceres.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
